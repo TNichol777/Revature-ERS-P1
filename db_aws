@@ -1,0 +1,4 @@
+username=postgres
+password=revatureus
+driver=org.postgresql.Driver
+url=jdbc:postgresql://database-1.cegsm1p6a2cr.us-west-2.rds.amazonaws.com:5432/postgres
